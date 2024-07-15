@@ -60,6 +60,9 @@ Gunicorn 20.1.0<br>
 <b>Ну вот, собственно, чтобы попробовать функционал комплекса в действии:<b><br>
 
 <b>Доступ в Админку:</b><br>
+
+![image](https://github.com/user-attachments/assets/e094afdf-fe04-4bd3-9c7e-842e9f44f817)
+
 <b>Пользователь: admin<br>
 <b>Пароль: admin<br>
 
